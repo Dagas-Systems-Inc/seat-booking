@@ -6,8 +6,9 @@
     "start": "nodemon ./bin/www"
   },
   "license": "MIT",
-  "author": "Antoinette Tachie-Menson (godsgyal95)",
+  "author": "Antoinette Tachie-Menson (godsgyal95), Dagason Hackason (dagasonhackason)",
   "dependencies": {
-    "body-parser": "^1.19.0"
+    "body-parser": "^1.19.0",
+    "crypto-pbkdf2": "^0.1.2"
   }
 }
